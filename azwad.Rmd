@@ -1,0 +1,21 @@
+---
+title: "Azwad's Page"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is Azwad's Page!
+
+This is Azwad's page! Here's some stuff about me:  
+
+* I was born in Bangladesh but moved to the US when I was 4  
+* My cats are named Nori (white + brown/black female) and Nimbus (gray male)  
+* I study evolution in fish using genomics!  
+
+![](https://avatars.githubusercontent.com/u/91352135?v=4)
+
+
+
